@@ -1,8 +1,10 @@
 # Gallery — Curated Creative and Technical Assets
 
 **Repository:** [donfelohke/Gallery](https://github.com/donfelohke/Gallery)  
-**Maintainer:** Felix Lwova (Don Feloh) · [@donfelohke](https://github.com/donfelohke)  
+**Maintainer:** Feloh Warena · Don Feloh · Felix Lwova · [@donfelohke](https://github.com/donfelohke)  
 **Status:** Repository initialized; asset inventory and approval are pending.
+
+Verified public presence (X, Instagram, TikTok, Facebook, site): see [feloh-corpus/docs/public-presence.md](https://github.com/donfelohke/feloh-corpus/blob/main/docs/public-presence.md).
 
 ## Purpose
 
@@ -54,3 +56,5 @@ No blanket licence is asserted here for every asset. Each asset's rights and per
 ## Governance
 
 This repository follows the wider principle: **conceptual coherence is not implementation evidence**. The existence of a category or a manifest entry is not proof that an asset is approved, published or cleared for every use.
+
+**ONLY NAKEBUSEN TRANSACTS.** Commercial contact: [0719 635 415](https://wa.me/254719635415).
