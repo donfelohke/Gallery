@@ -10,6 +10,9 @@ Verified public presence (X, Instagram, TikTok, Facebook, site): see [feloh-corp
 
 Gallery is the separate, curated destination for approved visual and creative materials supporting the NAKEBUSEN, WARENA, IKAI, GENJE and FELOH ecosystem.
 
+**Public-facing description:** Gallery is a rights-aware archive for selected visual and creative work. It is not a live website gallery and it is not an unreviewed upload dump. The public website links here as text; it does not embed these assets.
+
+
 The public website links to this repository. **Website pages must not embed Gallery images or copy image files into the website repository.** The Gallery link is a destination for people who intentionally want to explore the repository's curated materials.
 
 ## Curation standard
