@@ -23,7 +23,7 @@ Before adding an asset, document as applicable:
 - Relevant brand/domain and any usage restrictions.
 - Whether people depicted have provided the necessary consent for the intended publication.
 
-Do not infer permission from public availability. Do not add private customer material, confidential information, unlicensed third-party work, duplicates, watermarked stock, or drafts presented as approved assets.
+Do not infer permission from public availability. Do not add private customer material, confidential information, unlicensed third-party work, duplicates, watermarked stock, or drafts presented as approved.
 
 ## Proposed collection areas
 
@@ -49,7 +49,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing additions. Submit meani
 
 ## Licensing
 
-No blanket licence is asserted here for every asset. Each asset's rights and permitted uses must be documented individually in the manifest. A repository-level code licence, if added later, must not be misrepresented as licensing third-party or separately copyrighted creative assets.
+The repository includes a GNU General Public License, version 3 (`LICENSE`). That licence governs material to which it applies; it must not be assumed to grant rights in separately copyrighted or third-party creative assets. For each curated asset, document the applicable licence or written permission, attribution requirements, and permitted uses in `ASSET-MANIFEST.md`. If an asset's rights are unknown, do not publish it as approved.
 
 ## Governance
 
