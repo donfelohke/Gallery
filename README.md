@@ -1,84 +1,47 @@
-# Gallery — Curated Creative and Technical Assets
+# Gallery — Curated Assets
 
-**Repository:** [donfelohke/Gallery](https://github.com/donfelohke/Gallery)  
-**Maintainer:** Feloh Warena · Don Feloh · Felix Lwova · [@donfelohke](https://github.com/donfelohke)  
-**Status:** Repository initialized; asset inventory and approval are pending.
+**Maintainer:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
+**Status:** Initialized · asset inventory and formal approvals pending
 
-Verified public presence (X, Instagram, TikTok, Facebook, site): see [feloh-corpus/docs/public-presence.md](https://github.com/donfelohke/feloh-corpus/blob/main/docs/public-presence.md).
+Gallery holds **approved** visual and creative materials for NAKEBUSEN, WARENA, IKAI, GENJE and FELOH.
 
-## Purpose
-
-Gallery is the separate, curated destination for approved visual and creative materials supporting the NAKEBUSEN, WARENA, IKAI, GENJE and FELOH ecosystem.
-
-The public website links to this repository. **Website pages must not embed Gallery images or copy image files into the website repository.** The Gallery link is a destination for people who intentionally want to explore the repository's curated materials.
-
-## Curation standard
-
-Only include assets that are useful, high-quality, authorised and consistent with the approved brand direction. Prefer a small, exceptional collection over a large, unreviewed dump.
-
-Before adding an asset, document as applicable:
-
-- Asset title and intended use.
-- Creator/author and source.
-- Copyright holder and licence or written permission.
-- Approval status and date.
-- Relevant brand/domain and any usage restrictions.
-- Whether people depicted have provided the necessary consent for the intended publication.
-
-Do not infer permission from public availability. Do not add private customer material, confidential information, unlicensed third-party work, duplicates, watermarked stock, or drafts presented as approved assets.
-
-## Proposed collection areas
-
-Directories should be added only when approved assets actually exist. Possible areas include:
-
-- **brand/** — approved identity and emblem files.
-- **beauty/** — approved NAKEBUSEN Locs campaign materials.
-- **technology/** — WARENA and IKAI technical visuals.
-- **creative/** — approved FELOH and GENJE creative work.
-
-Do not create empty directories merely to imply that a collection is complete. Keep an asset manifest in `ASSET-MANIFEST.md`.
-
-## Website relationship
-
-- Public website: https://donfelohke.github.io/
-- Gallery repository: https://github.com/donfelohke/Gallery
-
-The website may link to this repository. It must not embed Gallery images, generate image galleries, or depend on image files from this repository to render its pages. The website should remain lightweight and readable when offline.
-
-## Contributing
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing additions. Submit meaningful changes through a branch and pull request where repository settings permit. Do not treat a proposed or submitted asset as approved until its provenance, rights and intended use have been reviewed.
-
-## Licensing
-
-No blanket licence is asserted here for every asset. Each asset's rights and permitted uses must be documented individually in the manifest. A repository-level code licence, if added later, must not be misrepresented as licensing third-party or separately copyrighted creative assets.
-
-## Governance
-
-This repository follows the wider principle: **conceptual coherence is not implementation evidence**. The existence of a category or a manifest entry is not proof that an asset is approved, published or cleared for every use.
-
-**ONLY NAKEBUSEN TRANSACTS.** Commercial contact: [0719 635 415](https://wa.me/254719635415).
+The public website may **link here**. It must **not** embed Gallery images or depend on image files to render. Website policy remains text-first.
 
 ---
 
-## Canonical architecture update — 2026-10-26
+## Curation rules
 
-Gallery remains the curated asset repository for FELOH, NAKEBUSEN, WARENA, IKAI and GENJE. It is not a commercial booking channel. **ONLY NAKEBUSEN TRANSACTS.** The current ecosystem names include **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** as the cultural identity/motivating idea, WARENA as NAKEBUSEN DIGITAL's technical identity, and IKAI Mirror as reflective-computing research.
+Before adding an asset, record where applicable:
 
-Continue to require asset provenance, usage rights, approval and appropriate consent. Do not present generated or stock images as actual NAKEBUSEN client results. Keep the public website's documented no-embedded-graphics policy intact.
+- Title and intended use  
+- Creator / source  
+- Copyright holder · licence or written permission  
+- Approval status and date  
+- Brand domain and usage restrictions  
+- Consent for people depicted  
 
-See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+Do not infer permission from “publicly available.” Do not add private customer material, unlicensed work, drafts as approved, or stock presented as real client results.
+
+Keep a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not create empty category folders that imply a complete collection.
 
 ---
 
-## Cross-repository documentation contract
+## Possible collection areas (when approved assets exist)
 
-This repository is the **Curated assets** domain in the FELOH ecosystem. Keep its README specific to this repository's actual contents; use the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) for shared terminology, architecture decisions, evidence standards and cross-domain governance.
+- `brand/` · `beauty/` · `technology/` · `creative/`
 
-- **Be precise about status.** Distinguish implemented and tested work from proposals, research, concepts and historical material. A plan, specification, directory or commit is not proof of a deployed or independently verified capability.
-- **Link to the source of truth.** Prefer links to maintained documentation over duplicated long-form policy. When shared terminology or architecture changes, update the corpus first or alongside the affected domain documentation.
-- **Protect people and rights.** Do not commit credentials, private customer records, confidential operational details, unlicensed creative assets or material lacking required consent. Record provenance and permissions for published assets and research material.
-- **Keep responsibilities clear.** FELOH is the human author and integrated practice; NAKEBUSEN is the sole customer-facing transacting enterprise; WARENA enables systems and infrastructure; IKAI remains reflective-compute research unless release evidence establishes otherwise; GENJE embodies creative and movement practice. Gallery holds curated assets, while the public website presents approved information.
-- **Make changes reviewable.** Prefer focused branches and pull requests, document meaningful decisions, and report checks actually run. Do not claim tests, deployment, approval or release unless there is evidence.
+---
 
-Canonical relationship: **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
+## Links
+
+- Website: https://donfelohke.github.io/  
+- This repo: https://github.com/donfelohke/Gallery  
+- Canon: [feloh-corpus](https://github.com/donfelohke/feloh-corpus)  
+
+Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
+
+```text
+FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
