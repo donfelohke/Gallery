@@ -40,8 +40,6 @@ Keep a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not create 
 
 Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
 
-```text
-FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
-```
+Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
