@@ -58,3 +58,13 @@ No blanket licence is asserted here for every asset. Each asset's rights and per
 This repository follows the wider principle: **conceptual coherence is not implementation evidence**. The existence of a category or a manifest entry is not proof that an asset is approved, published or cleared for every use.
 
 **ONLY NAKEBUSEN TRANSACTS.** Commercial contact: [0719 635 415](https://wa.me/254719635415).
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+Gallery remains the curated asset repository for FELOH, NAKEBUSEN, WARENA, IKAI and GENJE. It is not a commercial booking channel. **ONLY NAKEBUSEN TRANSACTS.** The current ecosystem names include **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** as the cultural identity/motivating idea, WARENA as NAKEBUSEN DIGITAL's technical identity, and IKAI Mirror as reflective-computing research.
+
+Continue to require asset provenance, usage rights, approval and appropriate consent. Do not present generated or stock images as actual NAKEBUSEN client results. Keep the public website's documented no-embedded-graphics policy intact.
+
+See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
