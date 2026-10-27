@@ -5,6 +5,8 @@
 
 Gallery holds **approved** visual and creative materials for NAKEBUSEN, WARENA, IKAI, GENJE and FELOH.
 
+**Public-facing description:** Gallery is a rights-aware archive for selected visual and creative work. It is not a live website gallery and it is not an unreviewed upload dump. The public website links here as text; it does not embed these assets.
+
 The public website may **link here**. It must **not** embed Gallery images or depend on image files to render. Website policy remains text-first.
 
 ---
