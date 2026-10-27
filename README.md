@@ -43,3 +43,8 @@ Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) â€
 Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
+
+
+## Portfolio alignment â€” 2026-10
+
+Gallery is an approval and provenance layer, not a source of unreviewed decoration. Record creator/source, usage rights, intended brand, approval state and any restrictions before publishing. The NAKEBUSEN site remains text-first and must not depend on Gallery assets to render. Do not mark an asset approved without an explicit review record.
