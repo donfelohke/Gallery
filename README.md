@@ -5,7 +5,7 @@
 
 Gallery holds **approved** visual and creative materials for NAKEBUSEN, WARENA, IKAI, GENJE and FELOH.
 
-**Public-facing description:** Gallery is a rights-aware archive for selected visual and creative work. It is not a live website gallery and it is not an unreviewed upload dump. The public website links here as text; it does not embed these assets.
+**Last README alignment:** 27 October 2026.
 
 The public website may **link here**. It must **not** embed Gallery images or depend on image files to render. Website policy remains text-first.
 
@@ -42,11 +42,6 @@ Keep a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not create 
 
 Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
 
-Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+[Canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
-
-
-## Portfolio alignment — 2026-10
-
-Gallery is an approval and provenance layer, not a source of unreviewed decoration. Record creator/source, usage rights, intended brand, approval state and any restrictions before publishing. The NAKEBUSEN site remains text-first and must not depend on Gallery assets to render. Do not mark an asset approved without an explicit review record.
