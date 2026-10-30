@@ -11,6 +11,10 @@ The public website may **link** to this repository. It must **not** embed Galler
 
 ---
 
+## Current campaign intake
+
+The [GENJE ZA WARENA Launch Asset Brief (2026-10-31)](GENJE-LAUNCH-ASSET-BRIEF-2026-10-31.md) records the founder-portrait-led image hierarchy and the seven-image source-set review requirements. No campaign image is approved by that brief; provenance, rights and consent remain release gates.
+
 ## Curation rules
 
 Before adding an asset, record the following where applicable:
