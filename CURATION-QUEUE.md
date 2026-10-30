@@ -1,6 +1,6 @@
 # Recommended Poster Curation Queue
 
-**Updated:** 2026-10-26  
+**Updated:** 2026-10-31 · portfolio/campaign alignment  
 **Repository:** [donfelohke/Gallery](https://github.com/donfelohke/Gallery)  
 **State:** Recommendations only — no asset in this queue is approved or published.
 
@@ -13,12 +13,20 @@ This queue selects the strongest poster concepts from previously generated and d
 | A1 | Arrival | **ELDORET, MEET NAKEBUSEN.** / NOW IN ELDORET TOWN | Local recognition | Strongest launch message; use one authentic loc photograph and a single location signal. |
 | A2 | Craft | **THE CRAFT IS IN THE ROOTS.** / STRUCTURE · TEXTURE · FORM | Demonstrate skill | Lead with visible parting, root work or hands at work; avoid unverified quality claims. |
 | A3 | Identity | **YOUR CROWN. YOUR CRAFT.** | Brand promise | Strong evergreen campaign; prioritise respectful, authentic portrait photography. |
-| A4 | Care and pricing | **MAINTAIN THE ROOT.** | Repeat bookings | Only use current verified prices: Loc retouch KES 700; Sisterlocs retie KES 1,500. |
+| A4 | Care and pricing | **MAINTAIN THE ROOT.** | Repeat bookings | Use the approved Eldoret campaign starting prices: Retouch & Styling KES 700+; Sisterlocs Retie KES 1,500+; Artificial Locs Installation KES 3,500+. Confirm scope and final quote before publication. |
 | A5 | Process | **BEFORE THE CROWN, THERE IS THE CRAFT.** | Trust and proof | Use genuine process photography; do not imply a concept image is real client work. |
 | A6 | Founder | **I WORK WITH CROWNS. NOT TRENDS.** | Founder story | Use only a genuine, authorised founder portrait and current approved signature. |
-| A7 | Booking banner | **BOOK NOW** / WhatsApp or call 0719 635 415 | Conversion | Keep the contact legible; booking is an enquiry until human confirmation. |
+| A7 | Booking banner | **ENQUIRE** / WhatsApp 0719 635 415 · enquiry is not a confirmed booking | Conversion | Keep the contact legible; booking is an enquiry until human confirmation. |
 
 **Source reference:** `Nakebusen Locs Brand Strategy Board.png` in ChatGPT Library (contains a multi-poster campaign system and mockups). Treat it as a reference board, not as seven individually available poster files. Extract or regenerate individual production-ready posters only from authorised source material.
+
+## GENJE ZA WARENA launch campaign
+
+**Identity:** GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.  
+**Parent context:** NAKEBUSEN — Beautiful Roots. Sovereign Systems.  
+**Creative principle:** Penye NIA, Pana Njia.
+
+The launch brief sets the authentic founder portrait (yellow cap, blue shirt) as the dominant human anchor, six other supplied images as supporting visual references, and the website as the governing reference for current messaging and destination. This is a design brief, not evidence that the source files are present, rights-cleared or approved. See [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md).
 
 ## Priority B — Brand / technical posters
 
