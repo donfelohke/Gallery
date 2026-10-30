@@ -1,7 +1,7 @@
 # Asset Manifest
 
 **Status:** Intake in progress. No asset is approved for public release by this manifest alone.  
-**Last reviewed:** 2026-10-26  
+**Last reviewed:** 2026-10-31 · documentation alignment only  
 **Curation queue:** [CURATION-QUEUE.md](CURATION-QUEUE.md)
 
 ## Admission rules
@@ -22,6 +22,10 @@ One entry per individual asset. A ChatGPT Library source reference is not a repo
 | WAR-CREST-001 | `Warena-Winged-Wolf-Brand-Crest-under-1MB.webp` | WARENA | Standalone crest candidate | Not yet added | Proposed — file existence/content to verify | Creator/source and publication rights not yet recorded here | Retrieve original and inspect before admission |
 | NAK-POSTER-005 | `Genje Za Warena Loc Services Poster.png` | NAKEBUSEN / GENJE | Loc services campaign candidate | Not yet added | Proposed — file existence/content to verify | Creator/source and publication rights not yet recorded here | Check brand hierarchy, wording, scope and all prices |
 | NAK-EDITORIAL-001 | `Golden Hour Locs Editorial.png` | NAKEBUSEN Locs | Editorial / campaign image candidate | Not yet added | Proposed — file existence/content to verify | Creator/source and publication rights not yet recorded here | Verify whether this is a standalone image or poster; check depiction/consent context |
+
+## Current campaign reference
+
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.** The founder portrait is the intended dominant image; six additional supplied images are supporting references; the website governs current public messaging and destination. See the [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). This reference does not establish that source files have been committed, rights-cleared or approved.
 
 ## Release checklist
 
