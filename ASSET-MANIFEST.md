@@ -39,9 +39,9 @@ Before marking an item approved:
 
 ## Canonical service details for copy checks
 
-- Retouch & Styling: **KES 700**
-- Sisterlocs Retie: **KES 1,500**
-- Artificial Locs Install: **KES 3,500**
+- Retouch & Styling: **KES 700+**
+- Sisterlocs Retie: **KES 1,500+**
+- Artificial Locs Installation: **KES 3,500+**
 - Current scope excludes braiding.
 
 These values are copy-check references, not evidence that a poster has been verified or approved. Reconfirm before releasing any pricing artwork.
