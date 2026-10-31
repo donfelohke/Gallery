@@ -25,7 +25,7 @@ One entry per individual asset. A ChatGPT Library source reference is not a repo
 
 ## Current campaign reference
 
-**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.** The founder portrait is the intended dominant image; six additional supplied images are supporting references; the website governs current public messaging and destination. See the [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). This reference does not establish that source files have been committed, rights-cleared or approved.
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.** The founder portrait is the intended dominant image; supporting images are intended as secondary references; the exact count remains pending reconciliation against individual original files; the website governs current public messaging and destination. See the [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). This reference does not establish that source files have been committed, rights-cleared or approved.
 
 ## Release checklist
 
@@ -44,7 +44,7 @@ Before marking an item approved:
 ## Canonical service details for copy checks
 
 - Retouch & Styling: **KES 700+**
-- Sisterlocs Retie: **KES 1,500+**
+- LOCS Retie: **KES 1,500+**
 - Artificial Locs Installation: **KES 3,500+**
 - Current scope excludes braiding.
 
@@ -55,3 +55,8 @@ These values are copy-check references, not evidence that a poster has been veri
 The curation queue and intake documentation identify candidates only. The individual image binaries have **not yet been verified as present in this repository**. No candidate above is approved or released. Do not infer repository availability from a Library filename or mark a composite board as a production-ready poster.
 
 The public website may link to this Gallery repository but must not embed its image files.
+
+
+## Shared canon and evidence
+
+The [cross-repository consistency and evidence register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/CROSS-REPOSITORY-CONSISTENCY-REGISTER-2026-10-31.md) defines canonical service labels and minimum image provenance, rights, consent and approval evidence.
