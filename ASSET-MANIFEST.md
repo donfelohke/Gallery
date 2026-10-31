@@ -25,7 +25,7 @@ One entry per individual asset. A ChatGPT Library source reference is not a repo
 
 ## Current campaign reference
 
-**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.** The founder portrait is the intended dominant image; six additional supplied images are supporting references; the website governs current public messaging and destination. See the [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). This reference does not establish that source files have been committed, rights-cleared or approved.
+**GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE.** The founder portrait is the intended dominant image; supporting images are intended as secondary references; the exact count remains pending reconciliation against individual original files; the website governs current public messaging and destination. See the [GENJE launch brief](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-ZA-WARENA-LAUNCH-BRIEF-2026-10-31.md). This reference does not establish that source files have been committed, rights-cleared or approved.
 
 ## Release checklist
 
