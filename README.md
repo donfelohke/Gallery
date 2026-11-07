@@ -61,3 +61,7 @@ Gallery functions as an approval and provenance layer, not a source of unreviewe
 ## Before Africa — research assets
 
 Research asset provenance, rights, consent and contextual metadata standard. [Read the asset standard](BEFORE-AFRICA-RESEARCH-ASSET-PROVENANCE-2026-11-07.md).
+
+## Platform independence — 2026-11
+
+Gallery's asset-rights, provenance and approval workflow is independent of the desktop stack. WARENA's Nix/Niri/Noctalia research does not alter asset approval, image permissions or the text-first website policy. See the [cross-project architecture alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
