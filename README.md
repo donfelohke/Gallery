@@ -55,3 +55,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
 ## Portfolio alignment — 2026-10
 
 Gallery functions as an approval and provenance layer, not a source of unreviewed decoration. Record creator/source, usage rights, intended brand, approval state and any restrictions before publishing. The NAKEBUSEN site remains text-first and must not depend on Gallery assets to render. Do not mark an asset approved without an explicit review record.
+
+---
+
+## Before Africa — research assets
+
+Research asset provenance, rights, consent and contextual metadata standard. [Read the asset standard](BEFORE-AFRICA-RESEARCH-ASSET-PROVENANCE-2026-11-07.md).
