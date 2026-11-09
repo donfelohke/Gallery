@@ -8,8 +8,9 @@ Gallery is a curated asset repository, not a general-purpose upload dump.
 2. Record the creator, source, rights/licence and any attribution requirements.
 3. Check for private customer information and confirm appropriate consent for identifiable people where required.
 4. Confirm the asset is the best available approved version; avoid duplicates, watermarks and obsolete drafts.
-5. Add a complete entry to `ASSET-MANIFEST.md`.
+5. Add a complete entry to ASSET-MANIFEST.md.
 6. Explain the intended brand context and use in the pull request.
+7. If AI-generated or AI-edited, disclose the tool/model where known, source assets, material transformations and human editor; follow [AI Assistance, Asset Rights and Provenance](AI-ASSISTED-DEVELOPMENT.md).
 
 ## Review status
 
@@ -29,4 +30,4 @@ Do not add images to the NAKEBUSEN website repository or embed Gallery assets in
 
 ## Changes
 
-Use a descriptive branch and pull request. Keep each change focused, explain its purpose, and include the manifest update alongside any asset addition or replacement.
+Use a descriptive branch and pull request. Keep each change focused, explain its purpose, and include the manifest update alongside any asset addition or replacement. The root software/documentation licence is not a blanket licence for individual media assets.
