@@ -21,3 +21,8 @@ Gallery applies the canonical policy to photographs, illustrations, design files
 The root LICENSE is not a blanket licence for every image, recording, artwork or other asset. The repository's software/documentation licence and each asset's rights are separate questions. Use the asset manifest as the rights record; where unclear, mark RIGHTS-UNCLEAR and withhold publication.
 
 The NAKEBUSEN website remains text-first and must not embed or depend on Gallery assets.
+
+
+## Asset transformation is not rights clearance
+
+AI upscaling, inpainting, recolouring, tracing, vectorisation, cropping, style transfer, captioning or format conversion does not erase the source asset's authorship, licence, consent or restrictions. Record original asset identity and source, creator/rightsholder, permission/licence, transformation tool/model, material edits, editor, intended use and review status. Never use a transformed copy to conceal an unauthorised source or remove attribution/watermarks. If source rights are uncertain, mark RIGHTS-UNCLEAR and withhold both original and transformed derivatives from publication pending review.
