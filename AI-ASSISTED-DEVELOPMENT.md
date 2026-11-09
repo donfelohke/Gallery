@@ -26,3 +26,6 @@ The NAKEBUSEN website remains text-first and must not embed or depend on Gallery
 ## Asset transformation is not rights clearance
 
 AI upscaling, inpainting, recolouring, tracing, vectorisation, cropping, style transfer, captioning or format conversion does not erase the source asset's authorship, licence, consent or restrictions. Record original asset identity and source, creator/rightsholder, permission/licence, transformation tool/model, material edits, editor, intended use and review status. Never use a transformed copy to conceal an unauthorised source or remove attribution/watermarks. If source rights are uncertain, mark RIGHTS-UNCLEAR and withhold both original and transformed derivatives from publication pending review.
+
+
+For Gallery, **code laundering** includes transforming an unauthorised photograph, illustration, recording, design or other asset with AI or manual editing and then presenting the derivative as original or rights-cleared. Transformation does not remove the original asset's authorship, licence, consent or restrictions.
