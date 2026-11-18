@@ -44,7 +44,7 @@ Before marking an item approved:
 ## Canonical service details for copy checks
 
 - Retouch & Styling: **KES 700+**
-- LOCS Retie: **KES 1,500+**
+- Sisterlocs Retie: **KES 1,500+**
 - Artificial Locs Installation: **KES 3,500+**
 - Current scope excludes braiding.
 
