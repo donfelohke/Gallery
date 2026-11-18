@@ -64,4 +64,4 @@ Research asset provenance, rights, consent and contextual metadata standard. [Re
 
 ## Platform independence — 2026-11
 
-Gallery's asset-rights, provenance and approval workflow is independent of the desktop stack. WARENA's Nix/Niri/Noctalia research does not alter asset approval, image permissions or the text-first website policy. See the [cross-project architecture alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
+Gallery's asset-rights, provenance and approval workflow is independent of the desktop stack. WARENA's current X11-first desktop research does not alter asset approval, image permissions or the text-first website policy. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and the [cross-project architecture alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
