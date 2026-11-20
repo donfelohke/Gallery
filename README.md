@@ -13,7 +13,7 @@ The public website may **link** to this repository. It must **not** embed Galler
 
 ## Current campaign intake
 
-The [GENJE ZA WARENA Launch Asset Brief (2026-10-31)](GENJE-LAUNCH-ASSET-BRIEF-2026-10-31.md) records the founder-portrait-led image hierarchy and the seven-image source-set review requirements. No campaign image is approved by that brief; provenance, rights and consent remain release gates.
+The [GENJE ZA WARENA Launch Asset Brief (2026-10-31)](GENJE-LAUNCH-ASSET-BRIEF-2026-10-31.md) records a founder-portrait-led hierarchy and supporting source-image review requirements. The exact supporting-image count must be reconciled against individual original files. No campaign image is approved by that brief; provenance, rights and consent remain release gates.
 
 ## Curation rules
 
@@ -29,6 +29,10 @@ Before adding an asset, record the following where applicable:
 Do not infer permission from “publicly available.” Do not add private customer material, unlicensed work, drafts presented as approved, or stock material presented as real client results.
 
 Maintain a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not create empty category folders that imply a complete collection.
+
+## Release rule
+
+An asset is not approved until its original binary is committed, visual quality and mobile legibility are checked, source and rights are recorded, consent is confirmed where relevant, intended use and restrictions are clear, and a human review is recorded.
 
 ---
 
@@ -52,7 +56,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
 
 ---
 
-## Portfolio alignment — 2026-10
+## Release rule (current)
+
+Gallery is a supporting rights/provenance repository, not a practice domain. The website remains text-first and must not embed Gallery images under the current policy.
+
+## Historical portfolio alignment — 2026-10
 
 Gallery functions as an approval and provenance layer, not a source of unreviewed decoration. Record creator/source, usage rights, intended brand, approval state and any restrictions before publishing. The NAKEBUSEN site remains text-first and must not depend on Gallery assets to render. Do not mark an asset approved without an explicit review record.
 
