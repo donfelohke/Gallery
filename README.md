@@ -46,7 +46,8 @@ An asset is not approved until its original binary is committed, visual quality 
 
 - Website: https://donfelohke.github.io/  
 - This repository: https://github.com/donfelohke/Gallery  
-- Canon: [feloh-corpus](https://github.com/donfelohke/feloh-corpus)  
+- Canon: [feloh-corpus](https://github.com/donfelohke/feloh-corpus)
+- Cross-repository consistency register: [evidence and reconciliation](https://github.com/donfelohke/feloh-corpus/blob/main/docs/CROSS-REPOSITORY-CONSISTENCY-REGISTER-2026-10-31.md)  
 
 Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
 
