@@ -1,7 +1,7 @@
 # Asset Manifest
 
 **Status:** Intake in progress. No asset is approved for public release by this manifest alone.  
-**Last reviewed:** 2026-10-31 · documentation alignment only  
+**Last reviewed:** 2026-11-20 · copy-reference correction only; asset approvals unchanged  
 **Curation queue:** [CURATION-QUEUE.md](CURATION-QUEUE.md)
 
 ## Admission rules
@@ -45,10 +45,10 @@ Before marking an item approved:
 
 - Retouch & Styling: **KES 700+**
 - Sisterlocs Retie: **KES 1,500+**
-- Artificial Locs Installation: **KES 3,500+**
+- Artificial Locs Installation: **KES 3,500**
 - Current scope excludes braiding.
 
-These values are copy-check references, not evidence that a poster has been verified or approved. Reconfirm before releasing any pricing artwork.
+These values are copy-check references, not evidence that a poster has been verified or approved. Artificial Locs Installation is KES 3,500 without a plus sign. Reconfirm before releasing any pricing artwork.
 
 ## Current implementation status
 

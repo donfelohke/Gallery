@@ -21,7 +21,7 @@ jobs:
           for file in README.md CONTRIBUTING.md ASSET-MANIFEST.md ASSET-APPROVAL-WORKFLOW.md LICENSE AGENTS.md; do
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
-          for field in "Asset ID / path" "Title / description" "Domain" "Creator / source" "Rights / licence" "Approval" "Intended use" "Review date"; do
+          for field in "Candidate ID" "Candidate / source reference" "Domain" "Intended use" "Repository path" "Status" "Rights / provenance" "Next action"; do
             grep -Fq "$field" ASSET-MANIFEST.md || { echo "Manifest missing required field: $field"; exit 1; }
           done
           grep -Fq "Submission is not approval" CONTRIBUTING.md || { echo "Contribution guide must preserve the submission-is-not-approval rule"; exit 1; }

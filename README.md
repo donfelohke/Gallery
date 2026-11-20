@@ -30,6 +30,10 @@ Do not infer permission from “publicly available.” Do not add private custom
 
 Maintain a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not create empty category folders that imply a complete collection.
 
+## Licensing
+
+The repository includes a GNU General Public License, version 3 (`LICENSE`). That licence governs material to which it applies; it must not be assumed to grant rights in separately copyrighted or third-party creative assets. For each curated asset, document the applicable licence or written permission, attribution requirements, and permitted uses in `ASSET-MANIFEST.md`. If an asset's rights are unknown, do not publish it as approved.
+
 ## Release rule
 
 An asset is not approved until its original binary is committed, visual quality and mobile legibility are checked, source and rights are recorded, consent is confirmed where relevant, intended use and restrictions are clear, and a human review is recorded.
