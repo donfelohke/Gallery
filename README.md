@@ -1,9 +1,9 @@
-# Gallery — Curated Assets
+# Gallery — Curated Assets · Supporting Repository
 
 **Maintainer:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
 **Status:** Initialized · asset inventory and formal approvals pending
 
-Gallery holds **approved** visual and creative materials for NAKEBUSEN, WARENA, IKAI, GENJE and FELOH.
+Gallery is a supporting asset-governance repository for visual and creative materials associated with NAKEBUSEN, WARENA, IKAI, GENJE and FELOH. It is not a fifth practice domain. Assets remain proposed until their source, rights, consent, intended use and approval are recorded.
 
 **Public-facing description:** Gallery is a rights-aware archive for selected visual and creative work. It is not a live website gallery and it is not an unreviewed upload dump. The public website links here as text; it does not embed these assets.
 
@@ -46,7 +46,7 @@ Maintain a living inventory in `ASSET-MANIFEST.md` when assets exist. Do not cre
 
 Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
 
-Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+Cross-domain relationships are governed by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing assets.
 
