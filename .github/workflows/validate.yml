@@ -1,0 +1,29 @@
+name: Validate Gallery governance baseline
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  documentation-baseline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Validate required governance files
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in README.md CONTRIBUTING.md ASSET-MANIFEST.md ASSET-APPROVAL-WORKFLOW.md LICENSE AGENTS.md; do
+            test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
+          done
+          for field in "Asset ID / path" "Title / description" "Domain" "Creator / source" "Rights / licence" "Approval" "Intended use" "Review date"; do
+            grep -Fq "$field" ASSET-MANIFEST.md || { echo "Manifest missing required field: $field"; exit 1; }
+          done
+          grep -Fq "Submission is not approval" CONTRIBUTING.md || { echo "Contribution guide must preserve the submission-is-not-approval rule"; exit 1; }
+          grep -Fq "must not embed Gallery images" README.md || { echo "README must preserve the website no-graphics boundary"; exit 1; }
+          echo "Gallery governance baseline validated; asset rights and approval still require human review."
