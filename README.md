@@ -51,7 +51,8 @@ An asset is not approved until its original binary is committed, visual quality 
 - Website: https://donfelohke.github.io/  
 - This repository: https://github.com/donfelohke/Gallery  
 - Canon: [feloh-corpus](https://github.com/donfelohke/feloh-corpus)
-- Cross-repository consistency register: [evidence and reconciliation](https://github.com/donfelohke/feloh-corpus/blob/main/docs/CROSS-REPOSITORY-CONSISTENCY-REGISTER-2026-10-31.md)  
+- Shared architecture: [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md)  
+- Asset provenance and approval: [ASSET-MANIFEST.md](ASSET-MANIFEST.md) · [ASSET-APPROVAL-WORKFLOW.md](ASSET-APPROVAL-WORKFLOW.md)  
 
 Commercial enquiries: [WhatsApp +254 719 635 415](https://wa.me/254719635415) — through **NAKEBUSEN** only.
 
