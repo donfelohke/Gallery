@@ -59,4 +59,4 @@ The public website may link to this Gallery repository but must not embed its im
 
 ## Shared canon and evidence
 
-The [cross-repository consistency and evidence register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/CROSS-REPOSITORY-CONSISTENCY-REGISTER-2026-10-31.md) defines canonical service labels and minimum image provenance, rights, consent and approval evidence.
+The [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md) defines current cross-domain ownership and commercial boundaries. Gallery's [ASSET-APPROVAL-WORKFLOW.md](ASSET-APPROVAL-WORKFLOW.md) defines asset-level review; this manifest records per-asset provenance, rights, consent, intended use and approval evidence.
