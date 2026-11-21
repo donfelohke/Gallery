@@ -84,3 +84,8 @@ Gallery's asset-rights, provenance and approval workflow is independent of the d
 ## Repository upgrade plan
 
 See [the repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). It records maintenance and quality gates without claiming unfinished work is complete.
+
+
+## Asset review record template — 2026-11-21
+
+Use the [per-asset review record](docs/GALLERY-ASSET-REVIEW-RECORD-TEMPLATE-2026-11-21.md) to record file integrity, provenance, rights, consent, intended use and a dated human decision. The template does not approve existing assets.
