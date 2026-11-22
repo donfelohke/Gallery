@@ -35,3 +35,18 @@ Do not infer ethnicity, identity, date, function, ritual meaning or community ow
 An asset brief is not approval. An image can be used in research notes only within the applicable licence and attribution terms. Public campaign use requires a separate rights and consent review. The website remains independent of Gallery assets and must not embed or depend on this repository.
 
 **Master dossier:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/before-africa-research-dossier-2026-11-07.md
+
+
+## BLACK HINTERLAND — expanded scope (22 November 2026)
+
+This provenance standard applies to the full [BLACK HINTERLAND — BEFORE AFRICA programme](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md), including palaeoanthropological imagery, archaeological sites and artefacts, historical maps, manuscripts, contemporary communities, cultural practice and future-facing visualisations.
+
+Additional controls:
+- Distinguish a fossil/artefact photograph, excavation image, archival image, contemporary community photograph, reconstruction, map and speculative artwork.
+- Record the exact site/object or collection identifier and dating claim; do not infer identity or chronology from appearance.
+- For community territories and sensitive archaeological sites, review location disclosure and custodianship risks before publication.
+- For living cultural practice, obtain appropriate individual and collective permissions; do not treat public posting as consent to reuse.
+- For speculative African-futures imagery, label it as concept/artwork, not documentary evidence or a photograph of an existing project.
+- Record whether captions are original, translated, edited or generated, and who reviewed them.
+
+The Corpus master dossier is the source of shared historical framing. Gallery owns asset provenance and release decisions only.
