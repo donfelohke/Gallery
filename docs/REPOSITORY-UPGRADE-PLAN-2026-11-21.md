@@ -27,3 +27,9 @@ No publication without a rights basis, consent where relevant, intended-use appr
 3. Audit approval states and source records.
 4. Add deterministic manifest validation where feasible.
 5. Publish an approval report without exposing private client information.
+
+## Execution addendum — 2026-11-22
+
+Direct-to-main alignment and README linking were completed. The new rights/publication update reiterates that asset presence, public availability or a manifest entry is not approval; only asset-level rights, consent where relevant, intended-use approval and human review permit publication.
+
+**Verification:** repository validation workflow passed. No image, portrait, recording or client asset was newly approved by these documentation commits.
