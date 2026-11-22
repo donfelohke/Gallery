@@ -89,3 +89,9 @@ See [the repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). I
 ## Asset review record template — 2026-11-21
 
 Use the [per-asset review record](docs/GALLERY-ASSET-REVIEW-RECORD-TEMPLATE-2026-11-21.md) to record file integrity, provenance, rights, consent, intended use and a dated human decision. The template does not approve existing assets.
+
+
+
+## BLACK HINTERLAND — research asset governance
+
+The [Before Africa Research Asset Provenance Standard](BEFORE-AFRICA-RESEARCH-ASSET-PROVENANCE-2026-11-07.md) applies to visual and documentary materials used in the [BLACK HINTERLAND master programme](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). No asset is approved by its inclusion in a research link or by public availability. Rights, consent, cultural authority, provenance, contextual captioning and human review remain mandatory.
