@@ -61,3 +61,18 @@ Commercial enquiries route through NAKEBUSEN only. **ONLY NAKEBUSEN TRANSACTS.**
 ---
 
 **Curate with care. Credit creators. Respect consent. Record provenance.**
+
+## Shared identity and asset attribution
+
+Gallery supports the visual and creative work of **DON FELOH / @donfelohke** across the GRACE · GRIT · GLORY philosophy:
+
+- **GRACE / NAKEBUSEN:** beauty, heritage, craft and dignity.
+- **GRIT / WARENA:** freedom, technology and infrastructure.
+- **GLORY / DON FELOH:** human authorship and creative expression.
+- **GENJE:** embodied creative practice.
+- **IKAI:** reflective research.
+- **FELOH Corpus:** shared canon, evidence and provenance.
+
+**GENJE ZA WARENA | NAKEBUSEN** is a shared identity signature, not permission to publish an asset. Rights, creator attribution, consent, intended use and explicit human approval remain mandatory. **ONLY NAKEBUSEN TRANSACTS.**
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
