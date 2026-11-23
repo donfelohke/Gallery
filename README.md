@@ -74,3 +74,5 @@ Gallery supports the visual and creative work of **DON FELOH / @donfelohke** acr
 - **FELOH Corpus:** shared canon, evidence and provenance.
 
 **GENJE ZA WARENA | NAKEBUSEN** is a shared identity signature, not permission to publish an asset. Rights, creator attribution, consent, intended use and explicit human approval remain mandatory. **ONLY NAKEBUSEN TRANSACTS.**
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
