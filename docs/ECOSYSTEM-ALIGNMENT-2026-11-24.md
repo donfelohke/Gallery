@@ -40,3 +40,7 @@ Keep ASSET-MANIFEST, ASSET-APPROVAL-WORKFLOW, CURATION-QUEUE and the review-reco
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus)
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) · [WARENA](https://github.com/donfelohke/WARENA)
 - [IKAI](https://github.com/donfelohke/Ikai) · [GENJE](https://github.com/donfelohke/Genje)
+
+## Shared brand reference
+
+The proposed [FELOH Corpus Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) sets shared identity and publication context. It does not approve any image or other asset. Gallery's source, rights, consent, attribution, intended-use and human-approval records remain mandatory for every asset.
