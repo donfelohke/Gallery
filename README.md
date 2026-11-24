@@ -47,6 +47,16 @@ The public website remains text-first and may link to this repository. It must n
 
 Possible collection areas, only when approved assets exist: `brand/`, `beauty/`, `technology/`, `creative/`.
 
+## Five-identity reference
+
+ [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
+
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
+
 ## Ecosystem
 
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared canon, evidence and provenance.
