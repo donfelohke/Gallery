@@ -9,7 +9,7 @@
 - Reported original user uploads: **8**
 - Corrected total: **40 + 8 = 48**
 
-The previous audit's later reference to a ninth original and `1000389757.jpg` was unsupported and is not part of this register. Classification is based on the reported Library metadata, not forensic examination.
+The previous audit's later reference to a ninth original and `1000389757.jpg` was unsupported and is excluded. Classification is based on the reported Library metadata, not forensic examination.
 
 ## Filename register
 
@@ -65,17 +65,15 @@ The previous audit's later reference to a ninth original and `1000389757.jpg` wa
 ### Original reference (42)
 42. 1000205950.jpg
 
-### Beauty campaign designs (43–46)
+### Beauty campaign designs (43–45)
 43. Nakebusen locs and nail care promo.png
 44. Luxury beauty and hair services.png
 45. Premium beauty care flyer design.png
 
-### Creative identity and early experiments (47–48)
-47. Street style and swagger with RAJOO.png
-48. Feloh Beauty: Powered by Linux.png
-49. Wolf Emblem with Wings.png
-
-**Register integrity note:** The numbered inventory above currently runs to 49 because the prior source list's sections were inconsistent. The canonical 48-file count must be reconciled against the original Library export before treating these sequence numbers as final. Do not silently drop or invent an entry.
+### Creative identity and early experiments (46–48)
+46. Street style and swagger with RAJOO.png
+47. Feloh Beauty: Powered by Linux.png
+48. Wolf Emblem with Wings.png
 
 ## Required machine-readable manifest fields
 
@@ -95,8 +93,8 @@ Keep original files immutable. Preserve contributor and subject attribution, con
 
 ## Campaign QA
 
-Check service accuracy, starting-price notation, telephone/contact details, location, brand hierarchy, typography, contrast, legibility, crop, cultural representation and source attribution. The approved Eldoret starting prices are Retouch & Styling KES 700+, Sisterlocs Retie KES 1,500+, Artificial Locs Installation KES 3,500+. No invented offers or services. NAKEBUSEN does not offer braiding.
+Check service accuracy, starting-price notation, contact details, location, brand hierarchy, typography, contrast, legibility, crop, cultural representation and source attribution. Approved Eldoret starting prices: Retouch & Styling KES 700+, Sisterlocs Retie KES 1,500+, Artificial Locs Installation KES 3,500+. No invented offers or services. NAKEBUSEN does not offer braiding.
 
 ## Reconciliation required
 
-The preceding conversation contains an inconsistent filename sequence: 48 items in the corrected accounting, but the later attempted sectioned transcription accidentally adds a 49th numbered entry. This document intentionally flags that defect rather than claiming a validated 48-row file manifest. Rebuild the final register from the Library export and binary files before assigning permanent IDs or hashes.
+This 48-name list is transcribed from the conversation's itemised inventory, not independently reconstructed from original file bytes. The count and classification match that inventory, but filenames, dimensions, hashes, timestamps and duplicate relationships still require reconciliation against the Library export and source binaries.
