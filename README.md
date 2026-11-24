@@ -68,26 +68,19 @@ Possible collection areas, only when approved assets exist: `brand/`, `beauty/`,
 
 Commercial enquiries route through NAKEBUSEN only. **ONLY NAKEBUSEN TRANSACTS.**
 
+
+## Governance status
+
+**INITIALIZED — asset inventory and formal approvals pending.** No asset should be described as approved until its source file, creator, rights or permission, intended use, consent where relevant, restrictions, integrity and human approval are recorded.
+
+The repository is a controlled archive, not a public image CDN. The current public website remains text-first and must not embed Gallery assets under the existing publication policy.
+
+## Identity and commercial boundary
+
+Gallery supports work across NAKEBUSEN, WARENA, IKAI, GENJE and FELOH; it is not a new practice domain or a transaction surface. **ONLY NAKEBUSEN TRANSACTS.**
+
+See the [FELOH Corpus identity and copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md) and the [cross-project ecosystem alignment](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for shared naming, maturity and provenance rules.
+
 ---
 
 **Curate with care. Credit creators. Respect consent. Record provenance.**
-
-## Shared identity and asset attribution
-
-Gallery supports the visual and creative work of **DON FELOH / @donfelohke** across the GRACE · GRIT · GLORY philosophy:
-
-- **GRACE / NAKEBUSEN:** beauty, heritage, craft and dignity.
-- **GRIT / WARENA:** freedom, technology and infrastructure.
-- **GLORY / DON FELOH:** human authorship and creative expression.
-- **GENJE:** embodied creative practice.
-- **IKAI:** reflective research.
-- **FELOH Corpus:** shared canon, evidence and provenance.
-
-**GENJE ZA WARENA | NAKEBUSEN** is a shared identity signature, not permission to publish an asset. Rights, creator attribution, consent, intended use and explicit human approval remain mandatory. **ONLY NAKEBUSEN TRANSACTS.**
-
-Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
-
-
-## Ecosystem alignment · 2026-11-24
-
-See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
