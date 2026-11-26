@@ -84,3 +84,8 @@ See the [FELOH Corpus identity and copy standard](https://github.com/donfelohke/
 ---
 
 **Curate with care. Credit creators. Respect consent. Record provenance.**
+
+
+## Shared identity alignment · 26 November 2026
+
+Gallery is supporting asset governance, not a practice domain or public image CDN. The current pillars are GRACE → NAKEBUSEN, GRIT → WARENA and GLORY → GENJE / GENJENESS; FELOH remains the human author. Preserve asset-level rights, consent, attribution and explicit human approval. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
