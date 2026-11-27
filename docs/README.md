@@ -16,6 +16,10 @@ Gallery is a supporting asset-governance repository, not a public image CDN or a
 - [Ecosystem update](ECOSYSTEM-UPDATE-2026-11-22.md).
 - [Root README](../README.md).
 
+## Current ecosystem alignment · 27 November 2026
+- [Gallery canonical alignment](FELOH-CANONICAL-ALIGNMENT-2026-11-27.md) — supporting asset-governance role, consent and publication boundaries.
+- [FELOH Corpus canonical synthesis](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-CANONICAL-RESEARCH-SYNTHESIS-2026-11-27.md) — shared identity, provenance and governance authority.
+
 ## Release rule
 
 An asset is not approved merely because it exists, is generated, is uploaded or appears in a merged pull request. Record creator/source, rights or permission, intended use, restrictions, consent where relevant, integrity and explicit human approval.
