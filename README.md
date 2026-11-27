@@ -5,7 +5,7 @@
 
 Gallery maintains provenance, rights, consent, attribution, integrity and approval records for visual and other creative assets associated with the FELOH practice.
 
-**Gallery is a supporting repository, not a fifth practice domain, public image CDN or published portfolio.** An uploaded, generated, committed or merged asset is not automatically approved for public use. The public NAKEBUSEN website is text-first and must not embed Gallery images without separate, explicit asset approval.
+**Gallery is a supporting repository, not a fifth practice domain. It is not a public image CDN or published portfolio.** An uploaded, generated, committed or merged asset is not automatically approved for public use. The public NAKEBUSEN website is text-first and must not embed Gallery images without separate, explicit asset approval.
 
 ## Start here
 
