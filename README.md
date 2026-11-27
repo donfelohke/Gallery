@@ -1,11 +1,11 @@
 # Gallery — Asset Governance
 
-**Status:** Curated asset-governance repository; publication requires explicit review and approval.  
+**Status:** INITIALIZED — asset-governance records and review workflow; publication requires explicit human review and approval.  
 **Stewardship:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
 Gallery maintains provenance, rights, consent, attribution, integrity and approval records for visual and other creative assets associated with the FELOH practice.
 
-**Gallery is not a public image CDN, a published portfolio or a fifth practice domain.** An uploaded, generated, committed or merged asset is not automatically approved for public use.
+**Gallery is not a public image CDN, a published portfolio or a fifth practice domain.** An uploaded, generated, committed or merged asset is not automatically approved for public use. The public NAKEBUSEN website is text-first and must not embed Gallery images without separate, explicit asset approval.
 
 ## Start here
 
