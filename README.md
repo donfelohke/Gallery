@@ -1,96 +1,66 @@
-# Gallery — Curated Assets
+# Gallery — Asset Governance
 
-**Supporting repository · Asset provenance · Rights · Consent · Approval**  
-**Maintainer:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
-**Status:** INITIALIZED — asset inventory and formal approvals pending.
+**Status:** Curated asset-governance repository; publication requires explicit review and approval.  
+**Stewardship:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
-Gallery is a supporting asset-governance repository for visual and creative materials associated with NAKEBUSEN, WARENA, IKAI, GENJE and FELOH. It is not a fifth practice domain, a live public gallery or an unreviewed upload dump.
+Gallery maintains provenance, rights, consent, attribution, integrity and approval records for visual and other creative assets associated with the FELOH practice.
 
-Assets remain proposed until source, rights, consent, intended use, restrictions and human approval are recorded.
+**Gallery is not a public image CDN, a published portfolio or a fifth practice domain.** An uploaded, generated, committed or merged asset is not automatically approved for public use.
 
 ## Start here
 
-- [Asset manifest](ASSET-MANIFEST.md) — inventory and provenance when assets exist.
-- [Asset approval workflow](ASSET-APPROVAL-WORKFLOW.md) — release gates.
-- [Per-asset review record template](docs/GALLERY-ASSET-REVIEW-RECORD-TEMPLATE-2026-11-21.md).
-- [Before Africa research asset provenance standard](BEFORE-AFRICA-RESEARCH-ASSET-PROVENANCE-2026-11-07.md).
-- [Contributing](CONTRIBUTING.md) — read before proposing or adding assets.
-- [GENJE ZA WARENA launch asset brief](GENJE-LAUNCH-ASSET-BRIEF-2026-10-31.md) — creative hierarchy and source-image review requirements; not an asset approval.
+- [Asset manifest](ASSET-MANIFEST.md) — inventory and status of recorded assets.
+- [Curation queue](CURATION-QUEUE.md) — items awaiting review and disposition.
+- [Asset approval workflow](ASSET-APPROVAL-WORKFLOW.md) — required human review and release gate.
+- [Curation policy](docs/CURATION-POLICY.md) — rights, consent, context and publication rules.
+- [Upload archive register](docs/UPLOAD-ARCHIVE-REGISTER-2026-11-24.md) — upload/archive provenance.
+- [Documentation index](docs/README.md).
 
 ## Required asset record
 
-For each proposed asset, record where applicable:
+Before an asset is approved, record as applicable:
 
-- Title, creator and original source.
-- Copyright holder, licence or written permission.
-- Intended use, domain and distribution context.
-- Approval status and date.
-- Consent for identifiable people depicted.
-- Attribution requirements, restrictions and expiry conditions.
-- File integrity and visual-quality review.
+1. **Identity:** stable asset ID, filename, format, dimensions or duration, checksum and storage location.
+2. **Origin:** creator, photographer, performer, source URL or collection, date and acquisition method.
+3. **Rights:** licence, permission, ownership basis, attribution text and restrictions.
+4. **Consent:** whose likeness, performance, voice, work or personal information appears; scope and evidence of consent where required.
+5. **Context:** intended project, publication channel, audience and cultural or editorial context.
+6. **Integrity:** original retained, derivatives linked, transformations recorded and metadata preserved where appropriate.
+7. **Decision:** reviewer, decision date, approval scope, expiry/review conditions and any unresolved issue.
 
-Do not infer permission from public availability. Do not publish private customer material, unlicensed work, drafts presented as approved or stock material presented as real client results.
+If a required field is unknown, mark it **UNKNOWN** or **PENDING**. Do not infer consent, ownership, licence or permission from possession or public availability.
 
-## Release rule
+## Release states
 
-An asset is not approved until its original file is committed, visual quality and mobile legibility are checked, source and rights are recorded, consent is confirmed where relevant, intended use and restrictions are clear, and a human review is documented.
+Use explicit states consistently:
 
-A brief, manifest entry or public URL does not itself approve an asset.
+- **INGESTED** — received; not reviewed.
+- **PENDING** — awaiting evidence or human decision.
+- **APPROVED** — approved for the stated purpose and channel only.
+- **RESTRICTED** — use limited by rights, consent, context or other conditions.
+- **REJECTED** — not approved for the proposed use.
+- **SUPERSEDED** — replaced by a later version; retain provenance.
+- **WITHDRAWN** — approval withdrawn; remove from future publication and record the disposition.
 
-## Licensing
+Approval is asset-specific and use-specific. A generated portrait is not documentary evidence of a real person. A public source is not automatically reusable. A repository commit does not establish publication rights.
 
-The repository includes [GNU GPL version 3](LICENSE). That licence governs material to which it applies; it must not be assumed to grant rights in separately copyrighted or third-party creative assets. Record the actual licence or written permission for every curated asset. If rights are unknown, do not publish it as approved.
+## Ecosystem boundaries
 
-## Publication boundaries
-
-The public website remains text-first and may link to this repository. It must not embed Gallery images or depend on image files to render under the current policy. Gallery is not a public image CDN.
-
-Possible collection areas, only when approved assets exist: `brand/`, `beauty/`, `technology/`, `creative/`.
-
-## Five-identity reference
-
- [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
-
-**FELOH** — Authorship · Intellectual work · Creative direction  
-**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
-**IKAI** — Reflective computing · Perception · Memory · Human experience  
-**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
-**GENJE** — Music · Movement · Performance · Creative expression
-
-## Ecosystem
-
-- [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared canon, evidence and provenance.
-- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — ROOT practice and sole commercial interface.
-- [WARENA](https://github.com/donfelohke/WARENA) — CAPABILITY systems engineering.
+- [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared identity, governance, evidence and provenance.
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — GRACE / ROOT and sole transaction interface.
+- [WARENA](https://github.com/donfelohke/WARENA) — GRIT / CAPABILITY engineering.
 - [IKAI](https://github.com/donfelohke/Ikai) — MIRROR research.
-- [GENJE](https://github.com/donfelohke/Genje) — EXPRESSION creative practice.
-- [Public website](https://donfelohke.github.io/) — text-first public destination.
+- [GENJE](https://github.com/donfelohke/Genje) — GLORY / EXPRESSION and creative practice.
+- [Public website](https://donfelohke.github.io/) — currently text-first; Gallery assets are not automatically embedded or published there.
 
-Commercial enquiries route through NAKEBUSEN only. **ONLY NAKEBUSEN TRANSACTS.**
+**ONLY NAKEBUSEN TRANSACTS.** Gallery does not create a commercial or checkout destination.
 
+## Stewardship
 
-## Governance status
+Do not overwrite originals or erase historical approval decisions. Preserve creator attribution, licence terms, consent scope, source links and transformation history. Escalate uncertain rights or culturally restricted material for human review before use.
 
-**INITIALIZED — asset inventory and formal approvals pending.** No asset should be described as approved until its source file, creator, rights or permission, intended use, consent where relevant, restrictions, integrity and human approval are recorded.
-
-The repository is a controlled archive, not a public image CDN. The current public website remains text-first and must not embed Gallery assets under the existing publication policy.
-
-## Identity and commercial boundary
-
-Gallery supports work across NAKEBUSEN, WARENA, IKAI, GENJE and FELOH; it is not a new practice domain or a transaction surface. **ONLY NAKEBUSEN TRANSACTS.**
-
-See the [FELOH Corpus identity and copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md) and the [cross-project ecosystem alignment](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for shared naming, maturity and provenance rules.
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [ASSET-APPROVAL-WORKFLOW.md](ASSET-APPROVAL-WORKFLOW.md).
 
 ---
 
 **Curate with care. Credit creators. Respect consent. Record provenance.**
-
-
-## Shared identity alignment · 26 November 2026
-
-Gallery is supporting asset governance, not a practice domain or public image CDN. The current pillars are GRACE → NAKEBUSEN, GRIT → WARENA and GLORY → GENJE / GENJENESS; FELOH remains the human author. Preserve asset-level rights, consent, attribution and explicit human approval. See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md). **ONLY NAKEBUSEN TRANSACTS.**
-
-
-## Documentation index
-
-See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
