@@ -26,4 +26,7 @@ jobs:
           done
           grep -Fq "Submission is not approval" CONTRIBUTING.md || { echo "Contribution guide must preserve the submission-is-not-approval rule"; exit 1; }
           grep -Fq "must not embed Gallery images" README.md || { echo "README must preserve the website no-graphics boundary"; exit 1; }
+          grep -Fq "not a fifth practice domain" README.md || { echo "README must preserve Gallery as a supporting repository"; exit 1; }
+          grep -Fq "INITIALIZED" README.md || { echo "README must retain the current asset-governance maturity label"; exit 1; }
+          grep -Fq "not a public image CDN" README.md || { echo "README must preserve the asset-publication boundary"; exit 1; }
           echo "Gallery governance baseline validated; asset rights and approval still require human review."
